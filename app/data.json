@@ -1,0 +1,12 @@
+{
+    "last_number": 1,
+    "current_number": 1,
+    "tickets": [
+        {
+            "number": 1,
+            "status": "checked_in",
+            "created_at": "2026-05-09 08:30:59",
+            "checked_in_at": "2026-05-09 08:31:34"
+        }
+    ]
+}
